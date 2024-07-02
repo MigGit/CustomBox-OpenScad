@@ -4,7 +4,7 @@ Generador de caja con tapa y pasadores configurable, Esta librería puede genera
 
 | 1  bisagra | 2 bisagra | 3 bisagra |
 | ------ | ------ | ------ |
-| [![N|Solid](imagenes/Bisagra1.png)] | [![N|Solid](imagenes/Bisagra2.png)] | [![N|Solid](imagenes/Bisagra3.png)] |
+| ![plot](imagenes/Bisagra1.png) | ![plot](imagenes/Bisagra2.png) | ![plot](imagenes/Bisagra3.png) |
 
 
 # Configuración
