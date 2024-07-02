@@ -38,13 +38,13 @@ makeBox(ancho,largo,alto,grosor,partes,bisagras,pasador);
 [![N|Solid](imagenes/Caja.png)]
 
 > Valores permitidos
->   ancho: Ancho de la caja. Mínimo 20 mm.
->   largo: Largo de la caja. Para 2 o 3 bisagras mínimo 80 mm. Para 1 bisagra mínimo 30 mm.
->   alto: Alto de la caja, mínimo 10 mm.
->   grosor: grosor de la pared.
->   modo: Valor para seleccionar las parte. 1 caja y tapa, 2 solo caja, 3 solo tapa (cualquier otro valor no muestra ninguna parte). Por defecto 1.
->   bisagras: Cantidad de bisagras 1, 2 o 3 como máximo. Por defecto 1.
->   pasadores: Mientras o no pasadores, por defecto los muestra.
+- ancho: Ancho de la caja. Mínimo 20 mm.
+- largo: Largo de la caja. Para 2 o 3 bisagras mínimo 80 mm. Para 1 bisagra mínimo 30 mm.
+- alto: Alto de la caja, mínimo 10 mm.
+- grosor: grosor de la pared.
+- modo: Valor para seleccionar las parte. 1 caja y tapa, 2 solo caja, 3 solo tapa (cualquier otro valor no muestra ninguna parte). Por defecto 1.
+- bisagras: Cantidad de bisagras 1, 2 o 3 como máximo. Por defecto 1.
+- pasadores: Mientras o no pasadores, por defecto los muestra.
 
 Para agregar separaciones se debe implementar el módulo "separador".
 Para separador horizontal se debe poner los valores a la función "sepH".
